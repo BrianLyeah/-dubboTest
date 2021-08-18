@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d3b1b69-e2fe-4794-a951-50984f02c532" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="dubbostudy" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qCxA8ztNPg2ksmUzT65B0beLWe" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/order-service-consumer/src/main/java/com/brianl/gmall/service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/order-service-consumer/src/main/java/com/brianl/gmall/tree" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.brianl.gmall.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\study\dubbostudy\order-service-consumer\src\main\java\com\brianl\gmall\tree" />
+      <recent name="E:\study\dubbostudy\user-service-provider\src\main\java\com\brianl\gmall\service" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8086/con/test" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ProviderTest.test01">
+    <configuration name="LocalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brianl.gmall.user.LocalTest" />
+      <module name="order-service-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brianl.gmall.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NodeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brianl.gmall.tree.NodeTest" />
+      <module name="order-service-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brianl.gmall.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="order-service-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brianl.gmall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.brianl.gmall" />
+      <option name="MAIN_CLASS_NAME" value="com.brianl.gmall.ProviderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderTest.send" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="order-service-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brianl.gmall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.brianl.gmall" />
+      <option name="MAIN_CLASS_NAME" value="com.brianl.gmall.ProviderTest" />
+      <option name="METHOD_NAME" value="send" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="order-service-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brianl.gmall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.brianl.gmall" />
+      <option name="MAIN_CLASS_NAME" value="com.brianl.gmall.ProviderTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DubbostudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dubbostudy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.brianl.dubbostudy.DubbostudyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallInterfaceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-interface" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.brianl.gmall.GmallInterfaceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order-service-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.brianl.gmall.OrderServiceConsumerApplication" />
+      <option name="VM_PARAMETERS" value="-XX:+UnlockCommercialFeatures" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-service-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.brianl.gmall.UserServiceProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.NodeTest" />
+      <item itemvalue="Application.LocalTest" />
+      <item itemvalue="JUnit.ProviderTest.test01" />
+      <item itemvalue="JUnit.ProviderTest.send" />
+      <item itemvalue="JUnit.ProviderTest" />
+      <item itemvalue="Spring Boot.DubbostudyApplication" />
+      <item itemvalue="Spring Boot.GmallInterfaceApplication" />
+      <item itemvalue="Spring Boot.OrderServiceConsumerApplication" />
+      <item itemvalue="Spring Boot.UserServiceProviderApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProviderTest.test01" />
+        <item itemvalue="JUnit.ProviderTest" />
+        <item itemvalue="JUnit.ProviderTest.send" />
+        <item itemvalue="Application.NodeTest" />
+        <item itemvalue="Application.LocalTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d3b1b69-e2fe-4794-a951-50984f02c532" name="Default Changelist" comment="" />
+      <created>1616597226320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616597226320</updated>
+      <workItem from="1616597228829" duration="9650000" />
+      <workItem from="1616636736228" duration="61000" />
+      <workItem from="1617241951391" duration="6994000" />
+      <workItem from="1617327666691" duration="1220000" />
+      <workItem from="1617898371055" duration="5206000" />
+      <workItem from="1617932985706" duration="15221000" />
+      <workItem from="1618058226863" duration="9936000" />
+      <workItem from="1618114181596" duration="1222000" />
+      <workItem from="1618278831753" duration="599000" />
+      <workItem from="1620805191901" duration="1085000" />
+      <workItem from="1620892881304" duration="3160000" />
+      <workItem from="1620974809200" duration="1210000" />
+      <workItem from="1620976575549" duration="29000" />
+      <workItem from="1621585972610" duration="3505000" />
+      <workItem from="1621821291971" duration="1212000" />
+      <workItem from="1621930179491" duration="1858000" />
+      <workItem from="1622010054183" duration="7306000" />
+      <workItem from="1622089742721" duration="2898000" />
+      <workItem from="1622102411492" duration="3465000" />
+      <workItem from="1622166241001" duration="10772000" />
+      <workItem from="1622430932082" duration="715000" />
+      <workItem from="1622512038683" duration="637000" />
+      <workItem from="1622598341984" duration="1202000" />
+      <workItem from="1622683804389" duration="1608000" />
+      <workItem from="1623227262273" duration="1447000" />
+      <workItem from="1623295697421" duration="1315000" />
+      <workItem from="1625021415989" duration="1344000" />
+      <workItem from="1625191121074" duration="3259000" />
+      <workItem from="1625734583324" duration="2864000" />
+      <workItem from="1625793025579" duration="191000" />
+      <workItem from="1626072789912" duration="713000" />
+      <workItem from="1626139798826" duration="606000" />
+      <workItem from="1626166957058" duration="1682000" />
+      <workItem from="1626402065629" duration="752000" />
+      <workItem from="1626706167641" duration="2444000" />
+      <workItem from="1626792229455" duration="4433000" />
+      <workItem from="1626835444168" duration="1209000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622101604055">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1622101604055" />
+    <state x="883" y="160" key="#com.intellij.ide.util.MemberChooser" timestamp="1625021489023">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="883" y="160" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1625021489023" />
+    <state x="797" y="235" width="488" height="585" key="#xdebugger.evaluate" timestamp="1626168326966">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="797" y="235" width="488" height="585" key="#xdebugger.evaluate/0.0.1536.834@0.0.1536.834" timestamp="1626168326966" />
+    <state width="424" height="618" key="DebuggerActiveHint" timestamp="1626168145897">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="424" height="618" key="DebuggerActiveHint/0.0.1536.834@0.0.1536.834" timestamp="1626168145897" />
+    <state x="509" y="187" key="FileChooserDialogImpl" timestamp="1622102504715">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="509" y="187" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1622102504715" />
+    <state width="1493" height="161" key="GridCell.Tab.0.bottom" timestamp="1626406243569">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="161" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1626406243569" />
+    <state width="1493" height="161" key="GridCell.Tab.0.center" timestamp="1626406243569">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="161" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1626406243569" />
+    <state width="1493" height="161" key="GridCell.Tab.0.left" timestamp="1626406243569">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="161" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1626406243569" />
+    <state width="1493" height="161" key="GridCell.Tab.0.right" timestamp="1626406243569">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="161" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1626406243569" />
+    <state width="1493" height="297" key="GridCell.Tab.1.bottom" timestamp="1626168640927">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="297" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1626168640927" />
+    <state width="1493" height="297" key="GridCell.Tab.1.center" timestamp="1626168640926">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="297" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1626168640926" />
+    <state width="1493" height="297" key="GridCell.Tab.1.left" timestamp="1626168640926">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="297" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1626168640926" />
+    <state width="1493" height="297" key="GridCell.Tab.1.right" timestamp="1626168640926">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="297" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1626168640926" />
+    <state width="1493" height="63" key="GridCell.Tab.2.bottom" timestamp="1626167940784">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="63" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1626167940784" />
+    <state width="1493" height="63" key="GridCell.Tab.2.center" timestamp="1626167940784">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="63" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1626167940784" />
+    <state width="1493" height="63" key="GridCell.Tab.2.left" timestamp="1626167940784">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="63" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1626167940784" />
+    <state width="1493" height="63" key="GridCell.Tab.2.right" timestamp="1626167940784">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="63" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1626167940784" />
+    <state x="512" y="121" key="Maven.ArtifactSearchDialog" timestamp="1621586438249">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="512" y="121" key="Maven.ArtifactSearchDialog/0.0.1536.834@0.0.1536.834" timestamp="1621586438249" />
+    <state x="238" y="75" key="SettingsEditor" timestamp="1622102386265">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="238" y="75" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1622102386265" />
+    <state x="65" y="106" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1617899149512">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="65" y="106" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.834@0.0.1536.834" timestamp="1617899149512" />
+    <state x="333" y="73" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1618066200138">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="333" y="73" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834@0.0.1536.834" timestamp="1618066200138" />
+    <state x="918" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1622170955657">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="918" y="154" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1622170955657" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/order-service-consumer/src/main/java/com/brianl/gmall/user/LocalTest.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/order-service-consumer/src/main/java/com/brianl/gmall/tree/NodeTest.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dubbostudy$ThreadTest.ic" NAME="ThreadTest Coverage Results" MODIFIED="1622101365974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.brianl.gmall.tree.*</FILTER>
+    </SUITE>
+  </component>
+</project>

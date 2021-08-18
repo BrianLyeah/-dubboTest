@@ -1,0 +1,39 @@
+
+server:
+  port: 9001
+
+spring:
+  mail:
+    host: smtp.qq.com
+    username: 495605767@qq.com
+    password: ywdpzjlcrxpwcaef
+    default-encoding: utf-8
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enble: true
+            required: false
+
+app:
+  id: aaaaaaaa
+
+#  spring.mail.host=smtp.qq.com
+#  spring.mail.username=你的邮箱
+#  spring.mail.password=注意：不是你的邮箱密码，是你邮箱的授权码
+#  （不知道就百度找一下）
+#  spring.mail.default-encoding=utf-8
+#  spring.mail.properties.mail.smtp.auth=true
+#  spring.mail.properties.mail.smtp.starttls.enble=true
+#  spring.mail.properties.mail.smtp.starttls.required=true
+
+
+#dubbo:
+#  application:
+#    id: dubbo-consumer-demo
+#    name: dubbo-consumer-demo
+#    logger: slf4j
+#  #单zookeeper服务：zookeeper://127.0.0.1:2181
+#  registry:
+#    address: zookeeper://127.0.0.1:2181

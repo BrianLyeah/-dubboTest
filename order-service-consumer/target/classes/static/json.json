@@ -1,0 +1,137 @@
+{
+  "fields": [{
+    "__config__": {
+      "label": "单选框组",
+      "labelWidth": null,
+      "showLabel": true,
+      "tag": "el-radio-group",
+      "tagIcon": "radio",
+      "changeTag": true,
+      "defaultValue": 3,
+      "layout": "colFormItem",
+      "span": 22,
+      "optionType": "default",
+      "regList": [],
+      "required": false,
+      "border": false,
+      "document": "https://element.eleme.cn/#/zh-CN/component/radio",
+      "formId": 101,
+      "renderKey": 1622444973215
+    },
+    "__slot__": {
+      "options": [{
+        "label": "选项一",
+        "value": 1
+      }, {
+        "label": "选项二",
+        "value": 2
+      }, {
+        "label": "选项三",
+        "value": 3
+      }]
+    },
+    "style": {},
+    "size": "small",
+    "disabled": false,
+    "__vModel__": "field101"
+  }, {
+    "__config__": {
+      "label": "下拉选择",
+      "showLabel": true,
+      "labelWidth": null,
+      "tag": "el-select",
+      "tagIcon": "select",
+      "layout": "colFormItem",
+      "span": 22,
+      "required": true,
+      "regList": [],
+      "changeTag": true,
+      "document": "https://element.eleme.cn/#/zh-CN/component/select",
+      "formId": 102,
+      "renderKey": 1622445021567,
+      "defaultValue": 2
+    },
+    "__slot__": {
+      "options": [{
+        "label": "选项一",
+        "value": 1
+      }, {
+        "label": "选项二",
+        "value": 2
+      }]
+    },
+    "placeholder": "请选择下拉选择",
+    "style": {
+      "width": "100%"
+    },
+    "clearable": true,
+    "disabled": false,
+    "filterable": false,
+    "multiple": false,
+    "__vModel__": "field102"
+  }, {
+    "__config__": {
+      "label": "多选框组",
+      "tag": "el-checkbox-group",
+      "tagIcon": "checkbox",
+      "defaultValue": [],
+      "span": 22,
+      "showLabel": true,
+      "labelWidth": null,
+      "layout": "colFormItem",
+      "optionType": "default",
+      "required": true,
+      "regList": [],
+      "changeTag": true,
+      "border": false,
+      "document": "https://element.eleme.cn/#/zh-CN/component/checkbox",
+      "formId": 103,
+      "renderKey": 1622445170904
+    },
+    "__slot__": {
+      "options": [{
+        "label": "选项一",
+        "value": 1
+      }, {
+        "label": "选项二",
+        "value": 2
+      }]
+    },
+    "style": {},
+    "size": "medium",
+    "disabled": false,
+    "__vModel__": "field103"
+  }, {
+    "__config__": {
+      "label": "计数器",
+      "showLabel": true,
+      "changeTag": true,
+      "labelWidth": null,
+      "tag": "el-input-number",
+      "tagIcon": "number",
+      "span": 22,
+      "layout": "colFormItem",
+      "required": true,
+      "regList": [],
+      "document": "https://element.eleme.cn/#/zh-CN/component/input-number",
+      "formId": 107,
+      "renderKey": 1622615754632
+    },
+    "placeholder": "计数器",
+    "step": 1,
+    "step-strictly": false,
+    "controls-position": "",
+    "disabled": false,
+    "__vModel__": "field107"
+  }],
+  "formRef": "elForm",
+  "formModel": "formData",
+  "size": "medium",
+  "labelPosition": "right",
+  "labelWidth": 100,
+  "formRules": "rules",
+  "gutter": 15,
+  "disabled": false,
+  "span": 22,
+  "formBtns": true
+}
