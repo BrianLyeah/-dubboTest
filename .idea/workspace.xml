@@ -19,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -28,6 +31,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1qCxA8ztNPg2ksmUzT65B0beLWe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="flattenPackages" value="true" />
@@ -67,6 +71,13 @@
           <option name="filesToSend" value="" />
         </RestClientRequest>
       </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
     </option>
   </component>
   <component name="RunManager" selected="JUnit.ProviderTest.test01">
@@ -207,6 +218,9 @@
     </option>
     <option name="showServicesTree" value="false" />
   </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -254,6 +268,7 @@
       <workItem from="1626706167641" duration="2444000" />
       <workItem from="1626792229455" duration="4433000" />
       <workItem from="1626835444168" duration="1209000" />
+      <workItem from="1629293981415" duration="1379000" />
     </task>
     <servers />
   </component>
